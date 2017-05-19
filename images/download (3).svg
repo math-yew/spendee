@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="61" height="70" viewBox="0 0 61 70">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #798893;
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #12c48b;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-4 {
+        fill: #12c48b;
+        text-anchor: middle;
+        font-family: "Proxima Nova";
+      }
+    </style>
+  </defs>
+  <g>
+    <path d="M37.738,59.000 C37.903,59.640 38.000,60.308 38.000,61.000 C38.000,65.418 34.418,69.000 30.000,69.000 C25.582,69.000 22.000,65.418 22.000,61.000 C22.000,60.308 22.097,59.640 22.262,59.000 L37.738,59.000 Z" class="cls-1"/>
+    <path d="M1.000,59.000 L59.000,59.000 L59.003,49.740 C59.003,49.740 51.000,51.455 51.000,42.000 C51.000,32.544 51.000,39.936 51.000,27.000 C51.000,14.064 41.298,4.000 30.000,4.000 C18.862,4.000 9.000,14.018 9.000,27.000 C9.000,39.981 9.000,38.154 9.000,42.000 C9.000,50.574 0.997,49.740 0.997,49.740 L1.000,59.000 Z" class="cls-1"/>
+    <circle cx="48" cy="13" r="12" class="cls-2"/>
+    <text x="48" y="20" class="cls-3"><tspan class="cls-4">!</tspan></text>
+  </g>
+</svg>
